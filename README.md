@@ -57,7 +57,3 @@ Receiver (Arduino + LDR) → NodeMCU (ESP32) → Blynk Cloud
 - Reduced electromagnetic interference compared to RF systems  
 - Password-based authentication with user-level control  
 
-## 📷 Demo / Setup
-(Add images of circuit, setup, and working model here)
-
-## 📁 Project Structure
